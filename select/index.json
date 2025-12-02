@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "両片想い",
+  "base_artist": "DXTEEN",
+  "createdAt": "2025-12-02T16:46:04.269025Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "両片想い",
+      "artist": "DXTEEN",
+      "has_synced": false,
+      "path": "select/pl_01_両片想い_DXTEEN.txt"
+    }
+  ]
+}
